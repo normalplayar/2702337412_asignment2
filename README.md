@@ -1,4 +1,4 @@
-# studentid_asignment2 from WADS L4AC
+# 2702337142_asignment2 from WADS L4AC
 Given instruction of
 
 + Create your Final Project Group Sample Webpage (Homepage + Individual Profile pages)
