@@ -3,8 +3,7 @@ let stars =
 let output = 
     document.getElementById("output");
  
-// Funtion to update rating
-function gfg(n) {
+function rate(n) {
     remove();
     for (let i = 0; i < n; i++) {
         if (n == 1) cls = "one";
@@ -17,7 +16,6 @@ function gfg(n) {
     output.innerText = "Rating is: " + n + "/5";
 }
  
-// To remove the pre-applied styling
 function remove() {
     let i = 0;
     while (i < 5) {
